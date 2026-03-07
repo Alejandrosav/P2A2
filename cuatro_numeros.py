@@ -1,3 +1,7 @@
+# Alejandro Sandoval
+# id : 00596210
+# Ing. Tecnologias de la informacion
+
 num1 = int(input("Digite número 1: "))
 num2 = int(input("Digite número 2: "))
 num3 = int(input("Digite número 3: "))
@@ -15,3 +19,4 @@ else:
             may = num4
 
             print(f"El número mayor es el: {may}")
+
